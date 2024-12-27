@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+💬 Ask me about ...
+
+[![rnngtz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rnngtz&theme=dracula)](https://github.com/rnngtz/github-readme-activity-graph)
 <!--
 **rnngtz/rnngtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
